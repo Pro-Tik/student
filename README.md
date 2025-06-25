@@ -1,4 +1,4 @@
-# Student Management System in C
+# Student Management System in C: My First Project In C
 
 A simple yet powerful Student Management System built in C to manage student records. This project allows users to perform various operations such as adding, viewing, updating, and deleting student information, such as name, ID, CGPA, and more.
 
